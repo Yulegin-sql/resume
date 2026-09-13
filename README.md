@@ -41,7 +41,7 @@
 ## 🎓 Обучение
 
 - 🏫 Студент 4 курса колледжа по специальности **«Информационные системы и программирование»**
-- 📘 [SQLBolt](https://sqlbolt.com/) — SQL Fundamentals, SQL Intermediate, SQL Advanced (4 из 7 lessons)
+- 📘 [shipthatcode](https://shipthatcode.com/courses/sql-advanced) — SQL Fundamentals; SQL Intermediate; SQL Advanced (4 of 7 lessons)
 - 💻 [SQL-EX / LeetCode / Stepik / SQL Practice](https://leetcode.com/u/zengas9/) — практика задач
 - 🚀 Сейчас изучаю: **оконные функции и оптимизация запросов**
 
