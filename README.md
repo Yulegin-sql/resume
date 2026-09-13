@@ -70,7 +70,7 @@ SQL Developer
 
 |--------|----------|------|
 
-| \[📊 SQL Practice](ссылка) | 100+ решённых задач с LeetCode и SQL-EX | SQL |
+| \[📊 SQL Practice](https://leetcode.com/u/zengas9/) | 100+ решённых задач с LeetCode | SQL |
 
 | \[🛒 Анализ продаж магазина](ссылка) | Аналитика продаж: топ товаров, динамика по месяцам | PostgreSQL |
 
@@ -87,10 +87,11 @@ SQL Developer
 \## 🎓 Обучение
 
 
+\- 🏫 Студент 4 курса колледжа по специальности **«Информационные системы и программирование»**
 
-\- 📘 \[Курс / платформа] — SQL для анализа данных
+\- 📘 \[shipthatcode] — SQL Fundamentals; SQL Intermediate; SQL Advanced(4 of 7 lessons)
 
-\- 💻 \[SQL-EX / LeetCode / Stepik] — практика задач
+\- 💻 \[SQL-EX / LeetCode / Stepik / SQL Practice: Learn Database] — практика задач
 
 \- 🎯 Сейчас изучаю: \*\*оконные функции и оптимизация запросов\*\*
 
