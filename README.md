@@ -41,7 +41,7 @@
 ## 🎓 Обучение
 
 - 🏫 Студент 4 курса колледжа по специальности **«Информационные системы и программирование»**
-- 📘 [shipthatcode](https://shipthatcode.com/courses/sql-advanced) — SQL Fundamentals; SQL Intermediate; SQL Advanced (4 of 7 lessons)
+- 📘 [shipthatcode](https://shipthatcode.com/courses/sql-advanced) — [SQL Fundamentals](https://shipthatcode.com/cert/79d279e9-6055-49c8-b99d-12a71ac7b85f); [SQL Intermediate](https://shipthatcode.com/cert/c508a34f-a511-41f5-93be-f515f5d4e250); [SQL Advanced](https://shipthatcode.com/cert/a4847cc7-0941-489d-96c7-b525063f4c0f)
 - 💻 [SQL-EX / LeetCode / Stepik / SQL Practice](https://leetcode.com/u/zengas9/) — практика задач
 - 🚀 Сейчас изучаю: **оконные функции и оптимизация запросов**
 
