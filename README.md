@@ -3,6 +3,7 @@
 ### 👨‍💻 Начинающий аналитик данных / SQL-разработчик
 
 Изучаю SQL и аналитику данных. Собрал портфолио реальных проектов: от простых SELECT-запросов до оконных функций и оптимизации.
+⭐ *Открыт к стажировкам и джуниор-позициям в аналитике данных!*
 
 ---
 
@@ -53,6 +54,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gleb.yulegin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/тлеб-юлегин-6848b6436)
 
----
 
-⭐ *Открыт к стажировкам и джуниор-позициям в аналитике данных!*
