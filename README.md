@@ -33,7 +33,7 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| [📊 SQL Practice](https://leetcode.com/u/zengas9/) | 100+ решённых задач с LeetCode | SQL |
+| [📊 SQL Practice](https://leetcode.com/u/zengas9/) | Решение задач на LeetCode | SQL |
 | [🛒 Анализ продаж магазина](https://github.com/Yulegin-sql/sql-retail-analytics.git) | Аналитика продаж: топ товаров, динамика по месяцам | PostgreSQL |
 | [🗄️ База сотрудников](#) | Проектирование БД, ER-диаграмма, сложные запросы | MySQL |
 | [📈 Дашборд метрик](#) | Расчёт retention и когортный анализ | SQL + Excel |
