@@ -36,7 +36,7 @@
 | [📊 SQL Practice](https://leetcode.com/u/zengas9/) | Решение задач на LeetCode | SQL |
 | [🛒 Анализ продаж магазина](https://github.com/Yulegin-sql/sql-retail-analytics.git) | Аналитика продаж: топ товаров, динамика по месяцам | PostgreSQL |
 | [🗄️ База сотрудников](https://github.com/Yulegin-sql/sql-employees-db.git) | Проектирование БД, ER-диаграмма, сложные запросы | MySQL |
-| [📈 Дашборд метрик](#) | Расчёт retention и когортный анализ | SQL + Excel |
+| [📈 Дашборд метрик](https://github.com/Yulegin-sql/sql-retention-cohorts.git) | Расчёт retention и когортный анализ | SQL + Excel |
 
 ---
 
